@@ -1,4 +1,5 @@
-![github-header-imag](https://user-images.githubusercontent.com/43892645/189421912-318b6be0-2957-49a2-abb4-84beccde4e3a.png)
+![github-header-image (4)](https://user-images.githubusercontent.com/43892645/189422306-d31ce023-df91-454e-818a-5c31915360f4.png)
+
 
 
 - 🌱 I’m currently learning Postgresql and C# .Net / .Net Core
