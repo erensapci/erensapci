@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning C# .Net / .Net Core
 
-- 📫 How to reach me: sapci.erenn@gmail.com
+- 📫 How to reach me: sapci.erenn@gmail.com , linkedin.com/in/erensapci
